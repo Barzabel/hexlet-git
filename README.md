@@ -1,2 +1,1 @@
-no code no gain
-experiment with amend
+this repositories to study at hexlet
